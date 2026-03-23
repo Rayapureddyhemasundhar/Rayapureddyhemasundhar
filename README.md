@@ -1,22 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Hemasundhar;ML+%26+AI+Enthusiast;Data+Scientist+in+Making;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Machine+Learning+Enthusiast+⚡;🤖+AI+%26+Data+Science+Explorer;📊+316%2B+Commits+Strong;🚀+Building+Impactful+ML+Models;💡+Welcome+to+My+Digital+Space" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 🌟 **About Me**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hemasundhar&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+## 🚀 **About Me**
 
 ```python
+"""
+👨‍💻 Machine Learning Engineer | AI Enthusiast | Data Science Explorer
+"""
+
 class Hemasundhar:
     def __init__(self):
         self.name = "Rayapureddy Hemasundhar"
         self.role = "Machine Learning & AI Enthusiast"
-        self.interests = ["Machine Learning", "Deep Learning", "Data Science", "Computer Vision"]
-        self.current_focus = "Building impactful ML models"
-        self.coding_journey = "316+ commits & counting"
+        self.location = "🌍 Exploring the world of AI"
+        self.interests = [
+            "🧠 Machine Learning", 
+            "🤖 Deep Learning", 
+            "📊 Data Science", 
+            "👁️ Computer Vision",
+            "🔬 Neural Networks"
+        ]
+        self.current_focus = "Building impactful ML models that solve real-world problems"
+        self.coding_journey = "316+ commits & counting 📈"
+        self.learning = "Advanced Deep Learning Architectures & MLOps"
+        
+    def connect_with_me(self):
+        return "Let's collaborate and build something amazing together! 🚀"
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing 🚀")
+    def daily_mantra(self):
+        return "Code. Learn. Repeat. 🤖"
 
 me = Hemasundhar()
-me.say_hi()
+print(me.connect_with_me())
+print(me.daily_mantra())
